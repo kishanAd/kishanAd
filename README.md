@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Computer Vision.
 - 💞️ I’m looking to collaborate on Computer Vision
-- 📫 How to reach me ...
+- 📫 How to reach me gmail : adhikarykishan11@gmail.com
 
 <!---
 kishanAd/kishanAd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
