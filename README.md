@@ -23,7 +23,7 @@
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanad&show_icons=true&locale=en&layout=compact" alt="kishanad" /></p>
 
 
-<p><<img src="https://github-readme-stats.vercel.app/api?username=kishanAd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kishanAd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/></p>
 
 
 
